@@ -5,9 +5,7 @@ Create a responsive pricing cards layout that displays different plans, features
 
 ## 🎯 Project Objective
 
-The main objective of this project is to design a modern and responsive pricing section for an online learning platform.
-
-The project also demonstrates how pricing cards can be integrated into a complete website to provide a better user experience.
+The main objective of this project is to design a modern and responsive pricing section for an online learning platform.The project also demonstrates how pricing cards can be integrated into a complete website to provide a better user experience.
 
 ## ✨ Features
 
