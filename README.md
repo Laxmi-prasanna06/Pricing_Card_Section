@@ -3,6 +3,10 @@
 Learnly is a responsive online learning platform website created using **HTML, CSS, and JavaScript**. The website provides users with a clean and professional interface to explore courses, view instructors, and choose a suitable learning plan.
 Create a responsive pricing cards layout that displays different plans, features, and prices using HTML, CSS, and JavaScript.
 
+## 🌐 Live Demo 
+
+Live Website :  https://laxmi-prasanna06.github.io/Pricing_Card_Section/
+
 ## 🎯 Project Objective
 
 The main objective of this project is to design a modern and responsive pricing section for an online learning platform.The project also demonstrates how pricing cards can be integrated into a complete website to provide a better user experience.
